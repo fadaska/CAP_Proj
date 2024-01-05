@@ -1,0 +1,1 @@
+using CatalogService as service from 'My_app../../../../srv/interaction_srv';
